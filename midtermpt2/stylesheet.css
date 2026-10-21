@@ -15,8 +15,7 @@ p {
 
 blockquote {
     font-size: 16px;
-    padding-inline: 1.5rem;
-    border-inline-top: 5px solid #000000;
-    border-inline-bottom: 5px solid #000000;
+    border-inline-start: 5px solid #000000;
+    border-inline-end: 5px solid #000000;
 }
 
