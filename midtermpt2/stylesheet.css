@@ -14,10 +14,11 @@ p {
 }
 
 blockquote {
-    font-size: 16px;
+    font-size: 20px;
     border-inline: 5 px solid black;
     padding: 10 px;
     width: 500px;
     margin: 0 auto;
+    font-family: "Century Gothic," Helvitica, sans-serif;
 }
 
