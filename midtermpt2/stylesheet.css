@@ -13,3 +13,10 @@ p {
     font-size: 12 px;
 }
 
+blockquote {
+    font-size: 16px;
+    padding-inline: 1.5rem;
+    border-inline-start: 5px solid #000000;
+    border-inline-end: 5px solid #000000;
+}
+
